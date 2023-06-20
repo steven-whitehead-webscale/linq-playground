@@ -1,0 +1,15 @@
+C:\projects\LinqPlayground\bin\Debug\net6.0\LinqPlayground.exe
+C:\projects\LinqPlayground\bin\Debug\net6.0\LinqPlayground.deps.json
+C:\projects\LinqPlayground\bin\Debug\net6.0\LinqPlayground.runtimeconfig.json
+C:\projects\LinqPlayground\bin\Debug\net6.0\LinqPlayground.dll
+C:\projects\LinqPlayground\bin\Debug\net6.0\LinqPlayground.pdb
+C:\projects\LinqPlayground\obj\Debug\net6.0\LinqPlayground.csproj.AssemblyReference.cache
+C:\projects\LinqPlayground\obj\Debug\net6.0\LinqPlayground.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\LinqPlayground\obj\Debug\net6.0\LinqPlayground.AssemblyInfoInputs.cache
+C:\projects\LinqPlayground\obj\Debug\net6.0\LinqPlayground.AssemblyInfo.cs
+C:\projects\LinqPlayground\obj\Debug\net6.0\LinqPlayground.csproj.CoreCompileInputs.cache
+C:\projects\LinqPlayground\obj\Debug\net6.0\LinqPlayground.dll
+C:\projects\LinqPlayground\obj\Debug\net6.0\refint\LinqPlayground.dll
+C:\projects\LinqPlayground\obj\Debug\net6.0\LinqPlayground.pdb
+C:\projects\LinqPlayground\obj\Debug\net6.0\LinqPlayground.genruntimeconfig.cache
+C:\projects\LinqPlayground\obj\Debug\net6.0\ref\LinqPlayground.dll
